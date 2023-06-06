@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .footer {
   display: flex;
   height: 70px;
   align-items: end;
   justify-content: center;
+=======
+.footer {
+  display: flex;
+  height: 70px;
+  align-items: end;
+  justify-content: center;
+>>>>>>> 3b046c1765dd34e8a14702c4aa5746299bc2d6f9
 }
